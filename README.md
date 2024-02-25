@@ -1,6 +1,9 @@
 # Emotion Based Music Recommendation System
 
-![Project Image Placeholder](placeholder_image.png)
+![Project Image Placeholder](images/image1.png)
+![Project Image Placeholder](images/image2.png)
+![Project Image Placeholder](images/image3.png)
+![Project Image Placeholder](images/image4.png)
 
 ### Overview
 This project implements a Song Recommendation Engine using K-Nearest Neighbors with the Spotify Music Dataset. It combines data from Spotify artists, albums, and tracks to create a comprehensive dataset for analysis and recommendation.
