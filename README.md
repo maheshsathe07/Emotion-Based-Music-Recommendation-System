@@ -1,4 +1,4 @@
-# Song Recommendation Engine
+# Emotion Based Music Recommendation System
 
 ![Project Image Placeholder](placeholder_image.png)
 
